@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module_Graphs", "Module_Graphs\Module_Graphs.csproj", "{08C646F3-B20A-4DD6-BC44-738303B1D7A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YTGraphWPFTester", "YTGraphWPFTester\YTGraphWPFTester.csproj", "{531C5E71-B2A4-496D-A6F1-490E1BC673FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C646F3-B20A-4DD6-BC44-738303B1D7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C646F3-B20A-4DD6-BC44-738303B1D7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C646F3-B20A-4DD6-BC44-738303B1D7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C646F3-B20A-4DD6-BC44-738303B1D7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531C5E71-B2A4-496D-A6F1-490E1BC673FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531C5E71-B2A4-496D-A6F1-490E1BC673FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531C5E71-B2A4-496D-A6F1-490E1BC673FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531C5E71-B2A4-496D-A6F1-490E1BC673FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
